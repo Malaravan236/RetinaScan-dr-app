@@ -5,3 +5,7 @@ django-cors-headers==4.4.0
 Pillow==10.4.0
 tensorflow==2.16.1
 numpy==1.26.4
+gunicorn
+whitenoise
+h5py
+scikit-learn
